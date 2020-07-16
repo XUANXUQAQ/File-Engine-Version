@@ -1,6 +1,5 @@
 {
   "version": "2.1",
   "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/2.1/File-Engine-x64.exe",
-  "url86": "https://github.com/XUANXUQAQ/File-Engine/releases/download/2.1/File-Engine-x86.exe",
   "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n\nAdd plugin system, you can install plugins by putting them into the plugins dir.\nReduce the indexing time.\n\n添加插件系统，将插件放入plugins文件夹即可自动安装\n减少索引时间。"
 }
