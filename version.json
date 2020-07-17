@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
-  "url64": "https://all.mk-proxy.tk/-----https://github.com/XUANXUQAQ/File-Engine/releases/download/2.1/File-Engine-x64.exe",
-  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n\nAdd plugin system, you can install plugins by putting them into the plugins dir.\nReduce the indexing time.\n\n添加插件系统，将插件放入plugins文件夹即可自动安装\n减少索引时间。"
+  "version": "2.2",
+  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/2.2/File-Engine-x64.exe",
+  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n\nAdd a plugin market, you can download plugins directly from the software in the future\nAdd the function of automatically creating database index, as the use time becomes longer and longer, the search speed will become faster and faster\nFix GUI stuck issue caused by slow network.\n\n添加插件市场，以后可以直接从软件内下载插件\n添加自动创建数据库索引功能，随着使用时间越来越长，搜索速度会越来越快\n修复网络过慢导致的GUI卡死问题。"
 }
