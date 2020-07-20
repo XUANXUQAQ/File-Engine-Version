@@ -1,3 +1,4 @@
 {
-	"UDisk" : "https://gitee.com/xuanxuF/File-Engine/raw/master/Plugins%20Repository/UDiskPluginVersion.json"
+	"UDisk" : "https://gitee.com/xuanxuF/File-Engine/raw/master/Plugins%20Repository/UDiskPluginVersion.json",
+	"Cmd" : "https://gitee.com/xuanxuF/File-Engine/raw/master/Plugins%20Repository/CmdPluginVersion.json"
 }
