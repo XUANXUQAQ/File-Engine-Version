@@ -1,5 +1,5 @@
 {
-  "version": "2.2",
-  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/2.2/File-Engine-x64.exe",
-  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n\nAdd a plugin market, you can download plugins directly from the software in the future\nAdd the function of automatically creating database index, as the use time becomes longer and longer, the search speed will become faster and faster\nFix GUI stuck issue caused by slow network.\n\n添加插件市场，以后可以直接从软件内下载插件\n添加自动创建数据库索引功能，随着使用时间越来越长，搜索速度会越来越快\n修复网络过慢导致的GUI卡死问题。"
+  "version": "2.3",
+  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/2.3/File-Engine-x64.exe",
+  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n\n添加网络代{过}{滤}理设置，如果你拥有某类软件，可以进行设置。\n优化软件体积，目前已经不到30M。\n修复刚开机时，搜索不停止的问题。\n添加SQLite数据库整理功能。"
 }
