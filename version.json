@@ -1,5 +1,5 @@
 {
-  "version": "2.3",
-  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/2.3/File-Engine-x64.exe",
-  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n\n添加网络代{过}{滤}理设置，如果你拥有某类软件，可以进行设置。\n优化软件体积，目前已经不到30M。\n修复刚开机时，搜索不停止的问题。\n添加SQLite数据库整理功能。"
+  "version": "2.4",
+  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/2.4/File-Engine-x64.exe",
+  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n\n添加数据库整理提示，删除图标缓存，降低内存占用，更新插件API"
 }
