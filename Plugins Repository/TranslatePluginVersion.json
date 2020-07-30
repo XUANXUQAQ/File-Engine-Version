@@ -2,7 +2,7 @@
 	"author": "XUANXU",
 	"officialSite": "https://github.com/XUANXUQAQ/File-Engine-Translate-Plugin",
 	"icon": "https://s1.ax1x.com/2020/07/29/aZdEx1.png",
-	"version": "1.0",
-	"url": "https://github.com/XUANXUQAQ/File-Engine-Translate-Plugin/releases/download/1.0/Translate.jar",
+	"version": "1.1",
+	"url": "https://github.com/XUANXUQAQ/File-Engine-Translate-Plugin/releases/download/1.1/Translate.jar",
 	"description": "A plugin to make File-Engine translate strings quickly.\nUsage: >trans 测试  --> return \"test\"\n一个使File-Engine快速翻译字符串的插件。\n使用方法：>trans 测试 --> 返回 \"test\""
 }
