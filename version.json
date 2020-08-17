@@ -1,5 +1,5 @@
 {
-  "version": "2.6",
-  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/2.6/File-Engine-x64.exe",
+  "version": "2.5",
+  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/2.5/File-Engine-x64.exe",
   "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n更新快速跳转功能，搜索框可以贴靠在资源管理器上方。\n修复插件无法更新的问题。\n修复由于网络问题导致插件更新检查阻塞的问题。\n重构GUI界面。\n修复界面闪烁的问题。\n。"
 }
