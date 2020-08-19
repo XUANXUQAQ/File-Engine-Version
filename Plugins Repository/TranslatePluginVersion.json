@@ -2,7 +2,7 @@
 	"author": "XUANXU",
 	"officialSite": "https://github.com/XUANXUQAQ/File-Engine-Translate-Plugin",
 	"icon": "https://s1.ax1x.com/2020/07/29/aZdEx1.png",
-	"version": "1.4",
-	"url": "https://github.com/XUANXUQAQ/File-Engine-Translate-Plugin/releases/download/1.4/Translate.jar",
+	"version": "1.5",
+	"url": "https://github.com/XUANXUQAQ/File-Engine-Translate-Plugin/releases/download/1.5/Translate.jar",
 	"description": "English instruction:\nA plugin that enables File-Engine to quickly translate strings\nHow to use: >tr test --> return \"test\"\nType \">tr >set\" in the search box ---> open the setting window to select the translation language\nEnter \">tr >file\" in the search box --->Open the file translation window:\nFile translation can automatically translate each line of text in the file to generate 2 files: withSource.txt withoutSource.txt\nwithSource.txt: displayed as \"original string = translation string\"\nwithoutSource.txt: displayed as \"translation string\"\n\n中文说明：\n一个使File-Engine快速翻译字符串的插件\n使用方法：>tr 测试 --> 返回 \"test\"\n在搜索框中输入\" >tr >set \" ---> 打开设置窗口以选择翻译语言\n在搜索框中输入 \" >tr >file \" --->打开文件翻译功能窗口：\n文件翻译可以自动翻译文件中的每一行文本，生成2个文件：withSource.txt withoutSource.txt\nwithSource.txt ：显示为  \"原字符串=翻译字符串\"\nwithoutSource.txt ：显示为  \"翻译字符串\""
 }
