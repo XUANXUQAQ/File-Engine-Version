@@ -1,6 +1,6 @@
 {
-	"UDisk" : "https://cdn.jsdelivr.net/gh/XUANXUQAQ/File-Engine-Version/Plugins%20Repository/UDiskPluginVersion.json",
-	"Cmd" : "https://cdn.jsdelivr.net/gh/XUANXUQAQ/File-Engine-Version/Plugins%20Repository/CmdPluginVersion.json",
-	"Translate" : "https://cdn.jsdelivr.net/gh/XUANXUQAQ/File-Engine-Version/Plugins%20Repository/TranslatePluginVersion.json",
-	"Web" : "https://cdn.jsdelivr.net/gh/XUANXUQAQ/File-Engine-Version/Plugins%20Repository/WebPluginVersion.json"
+	"UDisk" : "https://gitee.com/XUANXUQAQ/file-engine-version/raw/master/Plugins%20Repository/UDiskPluginVersion.json",
+	"Cmd" : "https://gitee.com/XUANXUQAQ/file-engine-version/raw/master/Plugins%20Repository/CmdPluginVersion.json",
+	"Translate" : "https://gitee.com/XUANXUQAQ/file-engine-version/raw/master/Plugins%20Repository/TranslatePluginVersion.json",
+	"Web" : "https://gitee.com/XUANXUQAQ/file-engine-version/raw/master/Plugins%20Repository/WebPluginVersion.json"
 }
