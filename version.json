@@ -1,5 +1,5 @@
 {
-  "version": "3.0",
-  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.0/File-Engine-x64.exe",
-  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n大幅提高搜索效率\n重构GUI界面，支持更多语言\n添加风格切换功能，添加更多可自定义的窗口部分\n添加后缀优先显示的功能\n自定义命令更新添加搜索功能\n风格颜色修改添加预览功能\n支持拼音搜索功能，无需再打入汉字\n性能优化\n下载管理功能重构，修复下载进度显示错误的问题\n添加插件窗口等待界面，防止卡死"
+  "version": "3.1",
+  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.1/File-Engine-x64.exe",
+  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n大幅提高搜索效率\n重构GUI界面\n优化预览功能\n支持添加自定义硬盘功能\n降低内存占用"
 }
