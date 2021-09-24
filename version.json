@@ -1,5 +1,5 @@
 {
-  "version": "3.2",
-  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.2/File-Engine-x64.exe",
-  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n大幅提高搜索效率\n重构GUI界面\n修复高DPI下资源管理器定位错误的问题"
+  "version": "3.3",
+  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.3/File-Engine.jar",
+  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n大幅提高搜索效率\n重构整体系统架构\n提高异步搜索效率"
 }
