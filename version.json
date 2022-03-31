@@ -1,6 +1,6 @@
 {
-  "version": "3.3",
-  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.3/File-Engine.jar",
-  "urlLauncher": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.3/File-Engine.exe",
-  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n大幅提高搜索效率\n重构整体系统架构\n提高异步搜索效率"
+  "version": "3.4",
+  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.4/File-Engine.jar",
+  "urlLauncher": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.4/File-Engine.exe",
+  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n大幅提高搜索效率\n重构整体系统架构\n降低耦合度\n适配高dpi高分辨率\n更新插件API\n添加插件监控程序事件和替换事件响应的功能。"
 }
