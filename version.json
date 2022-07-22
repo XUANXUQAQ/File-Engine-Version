@@ -1,6 +1,6 @@
 {
-  "version": "3.4",
-  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.4/File-Engine.jar",
-  "urlLauncher": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.4/File-Engine.exe",
-  "description": "若更新失败，直接删除之前的File-Engine-x64.exe, 再用新文件启动即可\nIf the update fails, directly delete the previous File-Engine-x64.exe, and then start with the new file\n大幅提高搜索效率\n重构整体系统架构\n降低耦合度\n适配高dpi高分辨率\n更新插件API\n添加插件监控程序事件和替换事件响应的功能。"
+  "version": "3.5",
+  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.5/File-Engine.jar",
+  "urlLauncher": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.5/File-Engine.exe",
+  "description": "若更新失败，直接删除之前的File-Engine.exe, 然后删除data文件夹中的File-Engine.jar，再用新文件启动即可\n大幅提高性能，降低内存占用。\n修复不能在中文文件夹下运行的问题。\n优化fileMonitor，不再记录文件改动到文件。\n优化fileSearcherUSN创建共享内存。\n添加缓存机制，提高搜索速度。\n添加sqliteJDBC接口，更新sqlite.dll到最新版。\n添加jvmoptions文件，支持自定义jvm启动参数。\n修复边框显示不完整的问题。\n优化数据库管理工具，防止数据库关闭时可能导致的崩溃。"
 }
