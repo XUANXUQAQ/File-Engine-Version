@@ -2,7 +2,7 @@
 	"author": "XUANXU",
 	"officialSite": "https://github.com/XUANXUQAQ/File-Engine-Web-Plugin",
 	"icon": "https://s3.ax1x.com/2021/01/07/smyBZV.png",
-	"version": "1.3",
-	"url": "https://github.com/XUANXUQAQ/File-Engine-Web-Plugin/releases/download/1.3/Web.jar",
+	"version": "1.4",
+	"url": "https://github.com/XUANXUQAQ/File-Engine-Web-Plugin/releases/download/1.4/Web.jar",
 	"description": "一个快速搜索互联网的插件\n用法：\n>web 你想搜索的关键字\n\nEnglish instruction:\nA plugin to search the Internet quickly\nusage:\n>web The keyword you want to search"
 }
