@@ -3,6 +3,6 @@
 	"officialSite": "https://github.com/XUANXUQAQ/File-Engine-Remote-Plugin",
 	"icon": "https://s3.bmp.ovh/imgs/2022/08/21/532da4f02a658e5c.png",
 	"version": "1.0",
-	"url": "https://github.com/XUANXUQAQ/File-Engine-Remote-Plugin/releases/download/1.0/Cmd.jar",
+	"url": "https://github.com/XUANXUQAQ/File-Engine-Remote-Plugin/releases/download/1.0/Remote.jar",
 	"description": "这是一个File-Engine远程搜索插件，通过这个插件，你可以通过浏览器搜索本地文件，并进行下载。默认地址：http://localhost:23333/index.html"
 }
