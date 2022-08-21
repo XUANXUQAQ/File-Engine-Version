@@ -1,6 +1,6 @@
 {
-  "version": "3.5",
-  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.5/File-Engine.jar",
-  "urlLauncher": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.5/File-Engine.exe",
-  "description": "若更新失败，直接删除之前的File-Engine.exe, 然后删除data文件夹中的File-Engine.jar，再用新文件启动即可\n大幅提高性能，降低内存占用。\n修复不能在中文文件夹下运行的问题。\n优化fileMonitor，不再记录文件改动到文件。\n优化fileSearcherUSN创建共享内存。\n添加缓存机制，提高搜索速度。\n添加sqliteJDBC接口，更新sqlite.dll到最新版。\n添加jvmoptions文件，支持自定义jvm启动参数。\n修复边框显示不完整的问题。\n优化数据库管理工具，防止数据库关闭时可能导致的崩溃。"
+  "version": "3.6",
+  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.6/File-Engine.jar",
+  "urlLauncher": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.6/File-Engine.exe",
+  "description": "若更新失败，直接删除之前的File-Engine.exe, 然后删除data文件夹中的File-Engine.jar，再用新文件启动即可\n支持CUDA加速，索引创建完成后搜索速度提升10倍以上。\n优化fileSearcherUSN效率。\n添加更多swing主题。\n优化事件处理中心，避免事件过多导致程序响应缓慢的问题。"
 }
