@@ -1,6 +1,6 @@
 {
-  "version": "3.8",
-  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.8/File-Engine.jar",
-  "urlLauncher": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.8/File-Engine.exe",
-  "description": "若更新失败，直接删除之前的File-Engine.exe, 然后删除data文件夹中的File-Engine.jar，再用新文件启动即可\n修复gpu加速可能无法搜索到部分文件的问题。\n支持检测windows深色模式并切换颜色。\n提高显存利用率。\n优化共享内存使用，提高索引速度。\n添加默认搜索桌面文件。"
+  "version": "3.9",
+  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.9/File-Engine.jar",
+  "urlLauncher": "https://github.com/XUANXUQAQ/File-Engine/releases/download/3.9/File-Engine.exe",
+  "description": "若更新失败，直接删除之前的File-Engine.exe，再用新文件启动即可，3.9以前版本需要删除data中的File-Engine.jar\n优化GPU调度，提高搜索速度。\n提高结果显示速度，不再添加300毫秒延迟等待输入。\n延迟获取图标，防止快速滚动导致GUI卡死。\n优化文件夹搜索，默认优先搜索文件。\n修复快速跳转在特定分辨率下可能无法使用的问题。"
 }
