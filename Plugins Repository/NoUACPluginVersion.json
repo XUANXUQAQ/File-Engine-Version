@@ -1,0 +1,8 @@
+{
+	"author": "XUANXU",
+	"officialSite": "https://github.com/XUANXUQAQ/File-Engine-NoUAC-Plugin/",
+	"icon": "https://i.328888.xyz/2023/01/21/OjiCw.png",
+	"version": "1.0",
+	"url": "https://github.com/XUANXUQAQ/File-Engine-NoUAC-Plugin/releases/download/1.0/NoUAC.jar",
+	"description": "通过File-Engine的管理员权限来实现开机自动启动程序，而不出现UAC弹窗"
+}
