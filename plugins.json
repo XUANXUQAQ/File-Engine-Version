@@ -4,5 +4,6 @@
 	"Translate" : "https://raw.githubusercontent.com/XUANXUQAQ/File-Engine-Version/master/Plugins%20Repository/TranslatePluginVersion.json",
 	"Web" : "https://raw.githubusercontent.com/XUANXUQAQ/File-Engine-Version/master/Plugins%20Repository/WebPluginVersion.json",
 	"Remote": "https://raw.githubusercontent.com/XUANXUQAQ/File-Engine-Version/master/Plugins%20Repository/RemotePluginVersion.json",
-	"NoUAC": "https://raw.githubusercontent.com/XUANXUQAQ/File-Engine-Version/master/Plugins%20Repository/NoUACPluginVersion.json"
+	"NoUAC": "https://raw.githubusercontent.com/XUANXUQAQ/File-Engine-Version/master/Plugins%20Repository/NoUACPluginVersion.json",
+	"UWP": "https://raw.githubusercontent.com/XUANXUQAQ/File-Engine-Version/master/Plugins%20Repository/UWPPluginVersion.json"
 }
