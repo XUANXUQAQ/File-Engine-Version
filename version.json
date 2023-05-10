@@ -1,6 +1,6 @@
 {
-  "version": "4.0",
-  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/4.0/File-Engine.jar",
-  "urlLauncher": "https://github.com/XUANXUQAQ/File-Engine/releases/download/4.0/File-Engine.exe",
-  "description": "若更新失败，直接删除之前的File-Engine.exe，再用新文件启动即可，3.9以前版本需要删除data中的File-Engine.jar\n优化GPU加速代码，修改OpenCL加速显存读取方式，适配intel独显。\n增加搜索缓存大小，提高搜索速度。\n优化插件API，修复插件发送自定\n义事件不触发的问题。\n修复显示结果会闪烁一次的问题。\n重构搜索机制，采用任务提交机制提高并发效率。\n修复插件无法监听键盘回车点\n击事件的问题。\n修复插件发送结果包含截断字符导致显示不全的问题。\n修改默认jvm启动参数。"
+  "version": "4.1",
+  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/4.1/File-Engine.jar",
+  "urlLauncher": "https://github.com/XUANXUQAQ/File-Engine/releases/download/4.1/File-Engine.exe",
+  "description": "若更新失败，直接删除之前的File-Engine.exe，再用新文件启动即可，3.9以前版本需要删除data中的File-Engine.jar\n优化GPU加速，CUDA加速可能崩溃的问题。\n重构文件监控模块，修复可能漏掉文件的问题。\n修复文件改动过多可能导致GPU加速卡顿的问题。\n添加是否在关闭程序后删除USN日志的配置选项。\n修复按住快捷键以外的键的情况下点击快捷键仍然会呼出搜索框的问题。\n提高文件同步速度。"
 }
