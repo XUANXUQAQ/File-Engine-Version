@@ -2,7 +2,7 @@
 	"author": "XUANXU",
 	"officialSite": "https://github.com/XUANXUQAQ/File-Engine-Cmd-Plugin",
 	"icon": "https://s1.ax1x.com/2020/07/20/U4aUpR.png",
-	"version": "1.8",
-	"url": "https://github.com/XUANXUQAQ/File-Engine-Cmd-Plugin/releases/download/1.8/Cmd.jar",
+	"version": "1.9",
+	"url": "https://github.com/XUANXUQAQ/File-Engine-Cmd-Plugin/releases/download/1.9/Cmd.jar",
 	"description": "A plugin to make File-Engine run cmd commands quickly.\nUsage:  input \">cmd ipconfig\" ---> run command \"ipconfig\" in cmd.\n快速运行cmd命令插件\n使用方法： 输入 “>cmd ipconfig” ---> 在cmd中运行命令“ipconfig”."
 }
