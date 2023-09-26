@@ -1,6 +1,6 @@
 {
-  "version": "4.2",
-  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/4.2/File-Engine.jar",
-  "urlLauncher": "https://github.com/XUANXUQAQ/File-Engine/releases/download/4.2/File-Engine.exe",
-  "description": "若更新失败，直接删除之前的File-Engine.exe，再用新文件启动即可，3.9以前版本需要删除data中的File-Engine.jar\n修复文字太长导致GPU加速崩溃的bug\n插件API过旧弹窗将仅在第一次启动出现\n修改默认边框颜色，防止默认背景下看不到搜索窗口\n优化事件处理机制\n优化获取文件图标API\n修复日志无法正常删除的问题\n修改默认jvm为openj9"
+  "version": "4.3",
+  "url64": "https://github.com/XUANXUQAQ/File-Engine/releases/download/4.3/File-Engine.jar",
+  "urlLauncher": "https://github.com/XUANXUQAQ/File-Engine/releases/download/4.3/File-Engine.exe",
+  "description": "若更新失败，直接删除之前的File-Engine.exe，再用新文件启动即可，3.9以前版本需要删除data中的File-Engine.jar\n适配jdk 21，添加虚拟线程。\n修改缓存逻辑和缓存大小。\n添加插件页面点击打开设置按钮。\n优化线程池。"
 }
